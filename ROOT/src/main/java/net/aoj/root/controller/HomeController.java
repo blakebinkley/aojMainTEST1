@@ -23,7 +23,7 @@ public class HomeController {
 	public String home(Model model) {
 		logger.info("Welcome home!");
 		model.addAttribute("controllerMessage",
-				"This is the message from the controller!");
+				"This is the beginning of a new site!");
 		return "home";
 	}
 	

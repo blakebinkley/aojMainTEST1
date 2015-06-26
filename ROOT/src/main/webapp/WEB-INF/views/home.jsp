@@ -6,11 +6,11 @@
 </head>
 <body>
 <h1>
-	Hello world! - 
+	Welcome to AOJ.net - 
 </h1>
 ${controllerMessage}<br/>
 <br/>
 <br/>
-<a href="person/list">Go to the person list</a>
+<!--a href="person/list">Go to the person list</a-->
 </body>
 </html>
